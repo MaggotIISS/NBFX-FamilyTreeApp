@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.asgteach.familytree.editorinterfaces">
+    <module_version install_time="1489777868705" last="true" origin="installer" specification_version="1.0">
+        <file crc="2607871176" name="config/Modules/com-asgteach-familytree-editorinterfaces.xml"/>
+        <file crc="1441355981" name="modules/com-asgteach-familytree-editorinterfaces.jar"/>
+    </module_version>
+</module>

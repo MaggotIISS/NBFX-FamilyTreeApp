@@ -1,0 +1,12 @@
+||:com.asgteach.familytree.editorinterfaces.PersonEditor
+java.lang.Object
+com.asgteach.familytree.editorinterfaces.PersonEditor
+||:com.asgteach.familytree.editorinterfaces.EventEditorManager
+java.lang.Object
+com.asgteach.familytree.editorinterfaces.EventEditorManager
+||:com.asgteach.familytree.editorinterfaces.PersonEditorManager
+java.lang.Object
+com.asgteach.familytree.editorinterfaces.PersonEditorManager
+||:com.asgteach.familytree.editorinterfaces.EventEditor
+java.lang.Object
+com.asgteach.familytree.editorinterfaces.EventEditor

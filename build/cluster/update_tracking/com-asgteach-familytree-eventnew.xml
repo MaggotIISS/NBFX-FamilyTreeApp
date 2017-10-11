@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.asgteach.familytree.eventnew">
+    <module_version install_time="1489777873419" last="true" origin="installer" specification_version="1.0">
+        <file crc="3903976665" name="config/Modules/com-asgteach-familytree-eventnew.xml"/>
+        <file crc="3533435938" name="modules/com-asgteach-familytree-eventnew.jar"/>
+    </module_version>
+</module>
